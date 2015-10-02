@@ -1,3 +1,4 @@
+package de.xyr.reget;
 import java.io.File;
 import javax.swing.*;
 import javax.swing.filechooser.*;
