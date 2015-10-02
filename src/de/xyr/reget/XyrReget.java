@@ -101,7 +101,9 @@ public class XyrReget extends JFrame {
 	public static void main(String[] args) {
 		try {
 			new XyrReget();
+			// normal finishing
 		} catch (Exception e) {
+			// exception case
 			e.printStackTrace();
 			System.exit(1);
 		}
